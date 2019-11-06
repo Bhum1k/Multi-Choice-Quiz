@@ -1,0 +1,255 @@
+Category: Geography
+Question 1: What is the capital of Mongolia?
+Correct Answer: Ulaanbaatar
+Incorrect Answer 1: Dharkhan
+Incorrect Answer 2: Erdene
+Incorrect Answer 3: Bayankhongor
+Question 2: How many countries border Russia?
+Correct Answer: 14
+Incorrect Answer 1: 12
+Incorrect Answer 2: 17
+Incorrect Answer 3: 11
+Question 3: What is the world's youngest country?
+Correct Answer: South Sudan
+Incorrect Answer 1: Serbia
+Incorrect Answer 2: Montenegro
+Incorrect Answer 3: Kosovo
+Question 4: What is the capital of Tajikistan?
+Correct Answer: Dushanbe
+Incorrect Answer 1: Bishkek
+Incorrect Answer 2: Tashkent
+Incorrect Answer 3: Khujand
+Question 5: What country borders Latvia and is to the North of Latvia?
+Correct Answer: Estonia
+Incorrect Answer 1: Lithuania
+Incorrect Answer 2: Belarus
+Incorrect Answer 3: Russia
+Question 6: What is the largest continent on Earth?
+Correct Answer: Asia
+Incorrect Answer 1: Antarctica
+Incorrect Answer 2: Europe
+Incorrect Answer 3: North America
+Question 7: What country has the most natural lakes?
+Correct Answer: Canada
+Incorrect Answer 1: India
+Incorrect Answer 2: Australia
+Incorrect Answer 3: United States
+Question 8: Which African Country contains the most pyramids?
+Correct Answer: Sudan
+Incorrect Answer 1: Algeria
+Incorrect Answer 2: Egypt
+Incorrect Answer 3: Libya
+Question 9: What is the driest place on Earth?
+Correct Answer: McMurdo, Antarctica
+Incorrect Answer 1: Sahara Desert
+Incorrect Answer 2: Atacama Desert
+Incorrect Answer 3: Kufra, Libya
+Question 10: What percentage of the River Nile falls in Egypt?
+Correct Answer: 22%
+Incorrect Answer 1: 100%
+Incorrect Answer 2: 43%
+Incorrect Answer 3: 72%
+Category: Science
+Question 1: When was the idea of the atom first introduced?
+Correct Answer: 450 B.C.
+Incorrect Answer 1: 1942
+Incorrect Answer 2: 1791
+Incorrect Answer 3: 1050
+Question 2: In what type of matter are atoms most tightly packed?
+Correct Answer: Solids
+Incorrect Answer 1: Gases
+Incorrect Answer 2: Liquids
+Incorrect Answer 3: All are the same
+Question 3: What is the negative particle in an atom called?
+Correct Answer: Electron
+Incorrect Answer 1: Positron
+Incorrect Answer 2: Neutron
+Incorrect Answer 3: Proton
+Question 4: What planet has the most moons?
+Correct Answer: Jupiter
+Incorrect Answer 1: Saturn
+Incorrect Answer 2: Uranus
+Incorrect Answer 3: Mars
+Question 5: Which method of heat transfer best describes a lava lamp?
+Correct Answer: Convection
+Incorrect Answer 1: Conduction
+Incorrect Answer 2: Radiation
+Incorrect Answer 3: Induction
+Question 6: Hurricanes only form over ___?
+Correct Answer: Warm Water
+Incorrect Answer 1: Cold Water
+Incorrect Answer 2: Warm Land
+Incorrect Answer 3: Cold Land
+Question 7: Where are the smallest bones in the human body?
+Correct Answer: Middle Ear
+Incorrect Answer 1: Eyes
+Incorrect Answer 2: Nose
+Incorrect Answer 3: Toes
+Question 8: What is a humming bird's heartrate?
+Correct Answer: 1260 Beats Per Minute
+Incorrect Answer 1: 60 Beats Per Minute
+Incorrect Answer 2: 240 Beats Per Minute
+Incorrect Answer 3: 300 Beats Per Minute
+Question 9: What is the symbol for Silver?
+Correct Answer: Ag
+Incorrect Answer 1: Si
+Incorrect Answer 2: Pb
+Incorrect Answer 3: Au
+Question 10: A light year is a unit of ___.
+Correct Answer: Distance
+Incorrect Answer 1: Speed
+Incorrect Answer 2: Time
+Incorrect Answer 3: Power
+Category: War
+Question 1: What year did the Chinese Civil War begin?
+Correct Answer: 1927
+Incorrect Answer 1: 1947
+Incorrect Answer 2: 1907
+Incorrect Answer 3: 1898
+Question 2: Which of the following was developed during World War I?
+Correct Answer: All of These
+Incorrect Answer 1: Plastic Surgery
+Incorrect Answer 2: Poison Gas
+Incorrect Answer 3: Blood Banks
+Question 3: Who had a nephew that server in the U.S. Navy during World War II?
+Correct Answer: Adolf Hitler
+Incorrect Answer 1: Joseph Stalin
+Incorrect Answer 2: Hirohito
+Incorrect Answer 3: Benito Mussolini
+Question 4: What percent of casualties in World War II were civilians?
+Correct Answer: 60 %
+Incorrect Answer 1: 20 %
+Incorrect Answer 2: 40 %
+Incorrect Answer 3: 80 %
+Question 5: Which of the following was a claw-like weapon from India designed to fit over the knuckles?
+Correct Answer: Bagh Naka
+Incorrect Answer 1: Chakram
+Incorrect Answer 2: Vajra
+Incorrect Answer 3: Parashu
+Question 6: What war lasted from June 25, 1950 to July 27, 1953?
+Correct Answer: Korean War
+Incorrect Answer 1: Vietnam War
+Incorrect Answer 2: World War II
+Incorrect Answer 3: Irish Civil War
+Question 7: What weapon was being developed secretly at Harvard University in 1942?
+Correct Answer: Napalm
+Incorrect Answer 1: Bazooka
+Incorrect Answer 2: Machine Gun
+Incorrect Answer 3: Missile
+Question 8: What percent of Russian males born in 1923 survived World War II?
+Correct Answer: 20 %
+Incorrect Answer 1: 40 %
+Incorrect Answer 2: 60 %
+Incorrect Answer 3: 80 %
+Question 9: Who was the President of the Unites States during the Civil War?
+Correct Answer: Abraham Lincoln
+Incorrect Answer 1: Jefferson Davis
+Incorrect Answer 2: Andrew Johnson
+Incorrect Answer 3: Ulysses S. Grant
+Question 10: Which of the following wars lasted the longest?
+Correct Answer: French and Indian War
+Incorrect Answer 1: World War II
+Incorrect Answer 2: Seven Years' War
+Incorrect Answer 3: Mexican-American War
+Category: Movies
+Question 1: Which one of these movies has a runtime of 85 hours?
+Correct Answer: The Cure for Insomnia
+Incorrect Answer 1: Dance with the Wolves
+Incorrect Answer 2: Hamlet
+Incorrect Answer 3: The Stand
+Question 2: What is the first rule of Fight Club?
+Correct Answer: You do not talk about Fight Club.
+Incorrect Answer 1: There are no rules.
+Incorrect Answer 2: If this is your first night at Fight Club, you have to fight.
+Incorrect Answer 3: Only two guys a fight.
+Question 3: What movie popularized the phrase: 'May the Force be with you'?
+Correct Answer: Star Wars
+Incorrect Answer 1: Matrix
+Incorrect Answer 2: Star Trek
+Incorrect Answer 3: E.T.
+Question 4: How long did it take to render each frame (1/24 of a second) of the CGI scenes in the movie Avatar (2009)?
+Correct Answer: 47 Hours
+Incorrect Answer 1: 47 Days
+Incorrect Answer 2: 47 Seconds
+Incorrect Answer 3: 47 Minutes
+Question 5: What movie depicts a society in which population and the consumption of resources are maintained by killing everyone who reaches the age of 30?
+Correct Answer: Logan's Run
+Incorrect Answer 1: Blade Runner
+Incorrect Answer 2: District 9
+Incorrect Answer 3: In Time
+Question 6: In Back to the Future, where does Doc Brown get the plutonium to power his time machine?
+Correct Answer: Libyan Terrorists
+Incorrect Answer 1: Chinese 'Businessmen'
+Incorrect Answer 2: The Future
+Incorrect Answer 3: Russian Mob
+Question 7: In The Martian where were the Mars exterior scenes shot?
+Correct Answer: Jordan
+Incorrect Answer 1: Australia
+Incorrect Answer 2: Namibia
+Incorrect Answer 3: Wyoming
+Question 8: In Ant-Man (2015) what character disappears into a subatomic quantum realm while disabling a Soviet nuclear missile?
+Correct Answer: Wasp
+Incorrect Answer 1: Yellow Jacket
+Incorrect Answer 2: Ant-Man
+Incorrect Answer 3: Atom
+Question 9: How many visible cuts are there in Birdman?
+Correct Answer: 16
+Incorrect Answer 1: 0
+Incorrect Answer 2: 35
+Incorrect Answer 3: 73
+Question 10: In The Wolf of Wall Street, what did the actors snort in scenes that involved cocaine?
+Correct Answer: B Vitamins
+Incorrect Answer 1: Flour
+Incorrect Answer 2: Cocaine
+Incorrect Answer 3: Baby Powder
+Category: Miscellaneous
+Question 1: What is the only king in a deck of cards without a moustache?
+Correct Answer: King of Hearts
+Incorrect Answer 1: King of Diamonds
+Incorrect Answer 2: King of Spades
+Incorrect Answer 3: King of Clubs
+Question 2: What is the largest number of children born to one woman?
+Correct Answer: 69
+Incorrect Answer 1: 23
+Incorrect Answer 2: 49
+Incorrect Answer 3: 32
+Question 3: What video game features Lara Croft?
+Correct Answer: Tomb Raider
+Incorrect Answer 1: Street Fighter
+Incorrect Answer 2: Grand Theft Auto
+Incorrect Answer 3: Myst
+Question 4: What is the little dot above a lower case 'i' or 'j' called?
+Correct Answer: Tittle
+Incorrect Answer 1: Whit
+Incorrect Answer 2: Jot
+Incorrect Answer 3: Dripple
+Question 5: What is the unit of currency in Russia?
+Correct Answer: Ruble
+Incorrect Answer 1: Drachma
+Incorrect Answer 2: Lev
+Incorrect Answer 3: Lira
+Question 6: Which poison do apple seeds contain?
+Correct Answer: Cyanide
+Incorrect Answer 1: Strychnine
+Incorrect Answer 2: Ricin
+Incorrect Answer 3: Arsenic
+Question 7: When was diet coke invented?
+Correct Answer: 1982
+Incorrect Answer 1: 2002
+Incorrect Answer 2: 1892
+Incorrect Answer 3: 1962
+Question 8: According to Japanese legend, a sick person will recover if they fold 1,000 of what type of origami?
+Correct Answer: Crane
+Incorrect Answer 1: Frog
+Incorrect Answer 2: Dragon
+Incorrect Answer 3: Fish
+Question 9: What animal undertakes the world's largest migration each year?
+Correct Answer: Arctic Tern
+Incorrect Answer 1: Storm Petrel
+Incorrect Answer 2: Gray Whale
+Incorrect Answer 3: Pacific Hearing
+Question 10: What was the highest amount of money ever paid for a cow at auction?
+Correct Answer: $ 1,300,000
+Incorrect Answer 1: $ 130,000
+Incorrect Answer 2: $ 670,000
+Incorrect Answer 3: $ 67,000

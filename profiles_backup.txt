@@ -1,0 +1,44 @@
+UserID: 0
+Username: Bhumik
+Category: Geography
+Highest Score: 97
+Total Score: 97
+Attempts: 1
+Category: Science
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: War
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: Movies
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: Miscellaneous
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+UserID: 1
+Username: ohaizac
+Category: Geography
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: Science
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: War
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: Movies
+Highest Score: 0
+Total Score: 0
+Attempts: 0
+Category: Miscellaneous
+Highest Score: 0
+Total Score: 0
+Attempts: 0
